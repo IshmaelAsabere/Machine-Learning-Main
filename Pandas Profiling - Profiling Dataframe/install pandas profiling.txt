@@ -1,0 +1,15 @@
+requires pandas 0.25
+
+# Create seperate environent
+# List env
+conda list       
+
+# Creates Environment and installs packages
+conda create --name test_env python=3.6 pandas=0.25 scipy statsmodels 
+
+# Activate Env
+conda activate test_env
+
+# Install pandas-profiling
+conda install -c conda-forge pandas-profiling
+
