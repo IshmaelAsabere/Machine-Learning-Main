@@ -1,2 +1,2 @@
-# Chief-Data-Scientist-
+# Chief-Data-Scientist
 Data Science Resources
